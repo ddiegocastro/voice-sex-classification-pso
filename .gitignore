@@ -1,0 +1,5 @@
+# Raw voice recordings are personal data and are not distributed
+data/audios/
+*.mp3
+*.wav
+*.asv
